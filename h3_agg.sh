@@ -1,5 +1,6 @@
 #!/bin/bash
 # This is a simple shell script that prints "Hello, World!"
+
 echo "Hello, World!"
 # vector file (mex_hex.gpkg) with mean values at resolution 7 (~3km diameter hexes):
 
